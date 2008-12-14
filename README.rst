@@ -17,4 +17,4 @@ Requirements
 ----
 TODO
 ----
-* A lot
+* finish the language suboptions
