@@ -17,4 +17,4 @@ Requirements
 ----
 TODO
 ----
-* finish the language suboptions
+* find a nice way to get lang suboptions
